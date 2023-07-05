@@ -1,0 +1,15 @@
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\bin\Debug\net6.0\DictionaryHomework.exe
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\bin\Debug\net6.0\DictionaryHomework.deps.json
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\bin\Debug\net6.0\DictionaryHomework.runtimeconfig.json
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\bin\Debug\net6.0\DictionaryHomework.dll
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\bin\Debug\net6.0\DictionaryHomework.pdb
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\obj\Debug\net6.0\DictionaryHomework.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\obj\Debug\net6.0\DictionaryHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\obj\Debug\net6.0\DictionaryHomework.AssemblyInfoInputs.cache
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\obj\Debug\net6.0\DictionaryHomework.AssemblyInfo.cs
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\obj\Debug\net6.0\DictionaryHomework.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\obj\Debug\net6.0\DictionaryHomework.dll
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\obj\Debug\net6.0\refint\DictionaryHomework.dll
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\obj\Debug\net6.0\DictionaryHomework.pdb
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\obj\Debug\net6.0\DictionaryHomework.genruntimeconfig.cache
+C:\Users\ayoub\source\repos\DictionaryHomeworkApp\DictionaryHomework\obj\Debug\net6.0\ref\DictionaryHomework.dll

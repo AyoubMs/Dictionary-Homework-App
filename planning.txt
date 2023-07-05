@@ -1,0 +1,9 @@
+Create a dictionary list of employee IDs and the name that goes with the ID. Fill in a few records. Then ask the user for their ID and return their name.
+
+Dictionary<int, string> employees = new Dictionary<int, string>();
+
+employees defn: fill the dictionary
+
+ask user for id {id}
+
+Console.WriteLine($"The name for {id} is {employees[id]}");
